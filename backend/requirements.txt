@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+pydantic-settings
+langchain
+langchain-core
+langchain_community
+langchain-text-splitters
+openai
+python-multipart
+websockets
+transformers
+torch
+soundfile
+numpy 
